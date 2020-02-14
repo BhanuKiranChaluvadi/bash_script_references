@@ -30,7 +30,7 @@ function print_help {
 
 
 GPERFTOOLS_VERSION=2.6.90
-TARBALL=ur-tcmalloc
+TARBALL=x-tcmalloc
 
 # Download
 function download {
