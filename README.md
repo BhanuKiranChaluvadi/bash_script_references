@@ -1,2 +1,2 @@
 # bash_script_references
-cross-compile gpertools
+This folders contains a simple bash script files that i have created so that i can reference them in future.
